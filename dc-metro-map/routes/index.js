@@ -12,6 +12,8 @@ console.log("using WMATA API Key - " + API_KEY_PLACEHOLDER);
 if (BEERME == 'true') { console.log("Beer Me! "); }
 if (RAINBOW == 'true') { console.log("Rainbows! "); }
 
+if (BITCOIN == 'true') { console.log("Bitcoin! "); }
+
 // var DCBEER = {
 //     type: "FeatureCollection",
 //     features: [{
